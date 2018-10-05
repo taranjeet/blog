@@ -1,6 +1,6 @@
 # taranjeet.github.io
 
-This is the source code for blog hosted [here](https://taranjeet.cc). It is a modifed version of [indigo](https://github.com/sergiokopplin/indigo) theme.
+This is the source code for blog hosted [here](https://taranjeet.cc/blog). It is a modifed version of [indigo](https://github.com/sergiokopplin/indigo) theme.
 
 ## Setup
 
@@ -10,23 +10,23 @@ If you want to setup locally on your machine, do the following steps:
 2. Clone the repo
 
 ```
-git clone git@github.com:taranjeet/taranjeet.github.io.git
+git clone git@github.com:taranjeet/blog.git
 ```
 
 3. Enter the folder and install dependencies
 
 ```
-cd taranjeet.github.io
+cd blog
 bundle install
 ```
 
 4. To run the server, run
 
 ```
-bundle exec jekyll serve
+bundle exec jekyll serve --port 4001
 ```
 
-5. Visit [http://localhost:4000](http://localhost:4000) it in your browser
+5. Visit [http://localhost:4000](http://localhost:4001) it in your browser
 
 ## Credits
 
