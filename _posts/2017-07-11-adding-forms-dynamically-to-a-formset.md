@@ -5,6 +5,7 @@ date: 2017-07-11 21:00
 tag:
 - django
 category: blog
+author: taranjeet
 ---
 
 ### Django Forms

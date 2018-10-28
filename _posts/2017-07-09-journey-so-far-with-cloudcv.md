@@ -3,10 +3,11 @@ layout: post
 title: Journey so far with CloudCV
 date: 2017-07-09 23:00
 tag:
-- opensource,
-- django,
+- opensource
+- django
 - gsoc
 category: blog
+author: taranjeet
 ---
 
 

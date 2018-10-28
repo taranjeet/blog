@@ -5,6 +5,7 @@ date: 2017-08-06 22:00
 tag:
 - hackathon
 category: blog
+author: taranjeet
 ---
 
 We recently organized one an internal hackathon namely [Rockeathon][rockeathon] at [Gradeup][gradeup]. It was the first internal hackathon and everyone enjoyed a lot.

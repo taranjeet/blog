@@ -5,6 +5,7 @@ date: 2016-09-15 22:00
 tag:
 - bash
 category: blog
+author: taranjeet
 ---
 
 Many times we are faced with the requirement of sshing into production machines, looking up something from production database
