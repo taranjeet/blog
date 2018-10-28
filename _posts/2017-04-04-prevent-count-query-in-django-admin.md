@@ -5,6 +5,7 @@ date: 2017-04-04 13:00
 tag:
 - django
 category: blog
+author: taranjeet
 ---
 
 Whenever changelist view of any model is opened in Django Admin, it performs a count query on the table. This count query can be a bottleneck on the database if the number of rows is large(especially in MYSQL, Innodb storage engine). This can be prevented and instead of the count query, a explain query can be fired.

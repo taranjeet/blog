@@ -7,6 +7,7 @@ tag:
 - coveralls
 - travis
 category: blog
+author: taranjeet
 ---
 
 This post is about setting up coveralls and travis in a Python project.
