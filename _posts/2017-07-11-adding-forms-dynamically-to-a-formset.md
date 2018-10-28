@@ -6,6 +6,7 @@ tag:
 - django
 category: blog
 author: taranjeet
+description: This post is about adding forms dynamically to a formset.
 ---
 
 ### Django Forms

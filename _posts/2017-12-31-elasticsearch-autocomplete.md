@@ -6,6 +6,7 @@ tag:
 - elasticsearch
 category: blog
 author: taranjeet
+description: This post is about different ways in which autocompletion can be implemented.
 ---
 
 ## **What is Autocomplete ?**

@@ -6,7 +6,7 @@ tag:
 - elasticsearch
 category: blog
 author: taranjeet
-description: "Elasticsearch&#58; Using Completion Suggester to build AutoComplete"
+description: This post is about implementing autocompletion in elasticsearch using completion suggester.
 ---
 
 In an earlier [post](/elasticsearch-autocomplete/), we discussed various approaches to implement Autocomplete functionality. We came to a conclusion that Completion Suggester covers most of the cases required in implementing a fully functional and fast autocomplete. This post explains in detail about what is Completion Suggester and how to use them practically.
