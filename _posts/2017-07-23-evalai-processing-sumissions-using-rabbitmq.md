@@ -8,6 +8,7 @@ tag:
 - rabbitmq
 category: blog
 author: taranjeet
+description: This post is about rabbitmq is used to reduce submission time in evalai, which is a platform for ai researchers and data scientists.
 ---
 
 [EvalAI](https://github.com/cloud-cv/evalai) is a platform which helps AI researchers, students and data scientists to collaborate and participate in various AI challenges. The platform hosts various challenges, corresponding to which participants make their submission.

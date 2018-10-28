@@ -6,6 +6,7 @@ tag:
 - hackathon
 category: blog
 author: taranjeet
+description: This post is about the design, challenges and outcome of conducint a corporate hackathon.
 ---
 
 We recently organized one an internal hackathon namely [Rockeathon][rockeathon] at [Gradeup][gradeup]. It was the first internal hackathon and everyone enjoyed a lot.

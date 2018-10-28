@@ -8,6 +8,7 @@ tag:
 - gsoc
 category: blog
 author: taranjeet
+description: This post is a brief write up of gsoc and opensource, in particular with Cloudcv organization.
 ---
 
 

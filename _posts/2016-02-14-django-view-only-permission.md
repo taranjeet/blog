@@ -6,7 +6,7 @@ tag:
 - django
 category: blog
 author: taranjeet
-description: Implementing view only permissions in Django
+description: This post implements read only permission built on top of Django ACL.
 ---
 
 Django ships with a nice and easy to plug [admin](https://docs.djangoproject.com/en/1.11/ref/contrib/admin/) interface. Access to admin panel is managed through Django ACL(Access Control List) using

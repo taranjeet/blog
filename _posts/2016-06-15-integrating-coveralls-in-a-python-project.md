@@ -8,6 +8,7 @@ tag:
 - travis
 category: blog
 author: taranjeet
+description: This post is about integrating coveralls and travis in a python project.
 ---
 
 This post is about setting up coveralls and travis in a Python project.

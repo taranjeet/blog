@@ -6,6 +6,7 @@ tag:
 - bash
 category: blog
 author: taranjeet
+description: This post is about how to change color when on production machines.
 ---
 
 Many times we are faced with the requirement of sshing into production machines, looking up something from production database

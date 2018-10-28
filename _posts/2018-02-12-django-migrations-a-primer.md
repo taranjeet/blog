@@ -6,6 +6,7 @@ tag:
 - django
 category: blog
 author: taranjeet
+description: This post is about migrations present in django.
 ---
 
 Migrations in Django are a way of propagating changes made in the model into the database schema.

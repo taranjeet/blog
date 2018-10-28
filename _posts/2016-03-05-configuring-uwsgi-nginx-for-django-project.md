@@ -8,6 +8,7 @@ tag:
 - uwsgi
 category: blog
 author: taranjeet
+description: This post is about configuring nginx as a web server and uwsgi as app server for a django project.
 ---
 
 This post is about setting up Nginx and uwsgi for a django project.
