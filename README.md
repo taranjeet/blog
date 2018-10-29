@@ -1,3 +1,5 @@
+Note: This repo is now megred with [taranjeet.github.io](https://github.com/taranjeet/taranjeet.github.io)
+
 # blog
 
 This is the source code for blog hosted [here](https://taranjeet.cc/blog). It is a modifed version of [indigo](https://github.com/sergiokopplin/indigo) theme.
