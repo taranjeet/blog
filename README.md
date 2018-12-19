@@ -1,4 +1,4 @@
-Note: This repo is now megred with [taranjeet.github.io](https://github.com/taranjeet/taranjeet.github.io)
+Note: This repo is now merged with [taranjeet.github.io](https://github.com/taranjeet/taranjeet.github.io)
 
 # blog
 
